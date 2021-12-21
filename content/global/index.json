@@ -3,9 +3,9 @@
     "icon": {
       "color": "orange",
       "style": "float",
-      "name": "tina"
+      "name": "cloud"
     },
-    "color": "default",
+    "color": "primary",
     "nav": [
       {
         "href": "",
@@ -30,7 +30,7 @@
     }
   },
   "theme": {
-    "color": "blue",
+    "color": "teal",
     "font": "sans",
     "icon": "boxicon",
     "darkMode": "system"

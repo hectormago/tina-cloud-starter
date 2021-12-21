@@ -1,13 +1,9 @@
 ---
 blocks:
   - tagline: ''
-    headline: Welcome to the Tina Starter
+    headline: Hector Fonseca DEV
     text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      content/pages/home.md, components from components/blocks, and puts them
-      all together in pages/\[filename].tsx, all based on a schema defined in
-      .tina/schema.ts.
+        Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras fermentum, tortor id gravida convallis, nisi augue molestie erat, quis finibus risus leo in urna. Pellentesque scelerisquleo   gravida consectetur venenatis, elit ipsum vulputate sapien, vel rhoncus lacus sapi convallis   eros. Integer pharetra laoreet commodo. Nulla vitae magna lobortis, dapibus ligula eget, bibendum   neque. Duis eros lectus, mollis ut auctor luctus, molestie in odio. Duis interdum  tortor tortor,   quis bibendum velit posuere eu. Sed nisi arcu, volutpat ac tincidunt in, congue ac dui.
     actions:
       - label: Get Started
         type: button
